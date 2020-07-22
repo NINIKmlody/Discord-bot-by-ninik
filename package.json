@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot by NINIK dominik malawski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NINIKmlody/Discord-bot-by-ninik.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot",
+    "discordjs",
+    "discord-js",
+    "discord_node_modules"
+  ],
+  "author": "Dominik Malawski NINIK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NINIKmlody/Discord-bot-by-ninik/issues"
+  },
+  "homepage": "https://github.com/NINIKmlody/Discord-bot-by-ninik#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}

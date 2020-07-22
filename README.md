@@ -1,2 +1,1 @@
-# Discord-bot-by-ninik
-Discord Bot
+[] Discord-bot
